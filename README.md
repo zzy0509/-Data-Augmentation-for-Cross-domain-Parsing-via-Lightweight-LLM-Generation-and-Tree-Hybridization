@@ -24,9 +24,9 @@ Code for Coling-2025's paper Data Augmentation for Cross-domain Parsing via Ligh
 
 1. Extracting Domain Dictionary and Lexicalized Grammar Rules.
 
-   ```
-   LLM_Tree_Hybridization/LLM_generation/prepocess
-   ```
+   
+   - [LLM_generation/prepocess][[LLM_Tree_Hybridization/LLM_generation/prepocess](https://github.com/zzy0509/LLM-Tree-Hybridization/tree/main/LLM_generation/prepocess)]
+   
 
    
 
