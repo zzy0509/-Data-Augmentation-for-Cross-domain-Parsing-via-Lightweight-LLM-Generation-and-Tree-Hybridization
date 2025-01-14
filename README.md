@@ -4,7 +4,6 @@ Code for Coling-2025's paper Data Augmentation for Cross-domain Parsing via Ligh
 
 ## Requirements:
 
-nltk: >= 3.4.5
-
-transformers: >= 2.1.1
+- nltk: >= 3.4.5
+- transformers: >= 2.1.1
 
