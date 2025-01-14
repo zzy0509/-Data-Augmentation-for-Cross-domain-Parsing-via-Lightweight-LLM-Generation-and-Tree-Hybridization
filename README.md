@@ -12,6 +12,11 @@ Code for Coling-2025's paper Data Augmentation for Cross-domain Parsing via Ligh
 - In-domain dataset, e.g., PTB
 - Cross-domain dataset, e.g., MCTB
 - Large-scale target-domain raw texts
+- Get [Berkeley Neural Parser](https://github.com/nikitakit/self-attentive-parser)
+  ```
+  cd /LLM_Tree_Hybridization/
+  git clone https://github.com/nikitakit/self-attentive-parser.git
+   ```
 
 ## Usage
 
@@ -20,7 +25,7 @@ Code for Coling-2025's paper Data Augmentation for Cross-domain Parsing via Ligh
 1. Extracting Domain Dictionary and Lexicalized Grammar Rules.
 
    ```
-   /data/zyzhang/LLM_Tree_Hybridization/LLM_generation/prepocess
+   LLM_Tree_Hybridization/LLM_generation/prepocess
    ```
 
    
@@ -28,7 +33,7 @@ Code for Coling-2025's paper Data Augmentation for Cross-domain Parsing via Ligh
 2. LLM Prompting with Target-domain Words and Lexicalized Grammar Rules.
 
    ```
-   /data/zyzhang/LLM_Tree_Hybridization/LLM_generation/LLM
+   LLM_Tree_Hybridization/LLM_generation/LLM
    ```
 
    
