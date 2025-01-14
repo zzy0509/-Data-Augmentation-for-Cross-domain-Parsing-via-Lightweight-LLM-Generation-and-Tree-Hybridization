@@ -14,7 +14,6 @@ Code for Coling-2025's paper Data Augmentation for Cross-domain Parsing via Ligh
 - Large-scale target-domain raw texts
 - Get [Berkeley Neural Parser](https://github.com/nikitakit/self-attentive-parser)
   ```
-  cd /LLM_Tree_Hybridization/
   git clone https://github.com/nikitakit/self-attentive-parser.git
    ```
 
